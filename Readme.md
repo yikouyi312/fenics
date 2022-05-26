@@ -1,4 +1,4 @@
-# Install FEniCS on Anaconda
+# Install FEniCS on Mac (Conda)
  - Step 1: Installing Miniconda
      - Open terminal
      - IF DEFAULT SHELL IS NOT BASH, change shell to bash by running: `chsh -s /bin/bash`, Otherwise, skip this step
