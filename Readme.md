@@ -13,7 +13,7 @@
     - Type the command: conda list to check that it installed correctly!
  
 - Step 2: run following commands in terminal:
-  - `conda create -n fenicsproject -c conda-forge fenics`
-  - `source activate fenicsproject`
+  - `conda create -n fenics -c conda-forge fenics mshr`
+  - `source activate fenics`
 
 #
