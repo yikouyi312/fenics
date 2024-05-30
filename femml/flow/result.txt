@@ -1,0 +1,28 @@
+Calculate Finish!
+Seperate Method
+uerror: [0.00762397 0.00761275]
+perror: [0.17825358 0.1782511 ]
+nablauerror: [0.18376948 0.18329673]
+nablaperror: [0.05299206 0.05285843]
+Calculate Finish!
+Ensemble Method
+uerror: [0.00762758 0.0076124 ]
+perror: [0.17825789 0.17825048]
+avgerror: 0.0070415175848763095
+nablauerror: [0.18366077 0.18329701]
+nablaperror: [0.0531847  0.05285261]
+nablauavgerror: 0.16670358116353606
+Calculate Finish!
+Ensemble-EVV Method
+uerror: [0.00762878 0.00761359]
+perror: [0.17825972 0.17825173]
+avgerror: 0.00704263743923703
+nablauerror: [0.18338119 0.18301772]
+nablaperror: [0.05323158 0.05289958]
+nablauavgerror: 0.1664615399306943
+Calculate Finish!
+Ensemble-EVV-Penalty Method
+uerror: [0.00726415 0.00724965]
+avgerror: 0.006724147492557674
+nablauerror: [0.17212189 0.17177962]
+nablauavgerror: 0.15672411558213384
